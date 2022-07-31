@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2? family= Mochiy+Pop+One & display=swap');
+div{
+    width: 100%;
+}
+h1{
+   font-family: 'Mochiy Pop One', sans-serif;
+    font-weight: 700;
+    font-size: 78px;
+    color: #0a2ff1;
+}
+span{
+    background-color: #3ffff3;
+}
+p{
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    color: #0a2ff1;
+}
+img{
+    background-image:url(../img/fondo.JPG);
+    width: 500px;
+}
