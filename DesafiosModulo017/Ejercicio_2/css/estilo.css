@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body, input, button{
+    font-family: 'Mulish', sans-serif;
+}
+body{
+    background-image: url(../img/M4-desafio1-fondo.png);
+}
+div{
+    width: 50%;
+    height: 500px;
+    margin: auto;
+    background-image: url(../img/M4-desafio1-fondo-form.png);
+    padding: 30px;
+}
+h1{
+    font-weight: bold;
+    font-size: 24.48pt;
+    color: #04146c;
+    text-align: center;  
+}
+form{
+    background-color: white;
+    width: 600px;
+    height: 400px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    margin: auto;
+}
+input{
+    font-size: 17pt;
+    font-weight: 400;
+    border: 1px solid #414166;
+    width: 500px;
+    height: 50px;
+}
+button{
+    background-color: #15163d;
+    font-weight:600 ;
+    font-size: 17pt;
+    color: white;
+    width: 500px;
+    height: 50px;
+}
+input,button{
+    display: block;
+    margin: 10px auto;
+}
